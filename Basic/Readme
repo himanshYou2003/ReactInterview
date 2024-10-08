@@ -1,1 +1,20 @@
 #Hi There It's Himanshu Here
+
+#Parcel
+- Dev Build
+- Local server
+- HMR = hot module replacement (automatically page refresh)
+- File watching algorithm [written in c++ ]
+- Cashing - Faster Builds
+- Image Optimization
+- Minification [for production]
+- Bundling
+- Compress File
+- Consistant Hashing
+- Code Splitting
+- Differential Bundling - Support Older Browser
+- Diagnostic -[Beautiful Error Screen on Consol or Terminal]
+- Error Handling
+- HTTPs
+- Tree Shaking - [Remove Unused code]
+- Different Build and Production Bundler
